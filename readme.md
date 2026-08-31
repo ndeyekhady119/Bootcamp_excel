@@ -39,7 +39,7 @@
 | 01 | Références (relative/absolue/mixte) | ✅ |
 | 02 | Mise en forme (nombres, %, €, dates) | ✅ |
 | 03 | Tri et filtres | ✅ |
-| 04 | Validation des données |  |
+| 04 | Validation des données | ✅ |
 | 05 | Mise en forme conditionnelle |  |
 | 06 | Opérateurs et calculs |  |
 | 07 | Fonctions statistiques |  |
