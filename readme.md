@@ -20,15 +20,6 @@
 
 ---
 
-## 📂 Structure
-
-```
-excel-bootcamp-30-jours/
-├── README.md
-├── .gitignore
-├── jour-01-references-cellules/
-│   ├── README.md
-│   └── exercices/
 
 > Les jours 15 à 30 suivent le même motif. Le README de chaque jour contient :  
 > **Objectifs · Théorie (Q/R) · Pratique · Points de friction**
@@ -48,12 +39,12 @@ excel-bootcamp-30-jours/
 | 01 | Références (relative/absolue/mixte) | ✅ |
 | 02 | Mise en forme (nombres, %, €, dates) | ✅ |
 | 03 | Tri et filtres | ✅ |
-| 04 | Validation des données | ✅ |
-| 05 | Mise en forme conditionnelle | ✅ |
-| 06 | Opérateurs et calculs | ✅ |
-| 07 | Fonctions statistiques | ✅ |
-| 08 | Fonctions logiques | ✅ |
-| 09 | Fonctions de texte | ✅ |
-| 10 | Fonctions de date | ✅ |
+| 04 | Validation des données |  |
+| 05 | Mise en forme conditionnelle |  |
+| 06 | Opérateurs et calculs |  |
+| 07 | Fonctions statistiques |  |
+| 08 | Fonctions logiques |  |
+| 09 | Fonctions de texte |  |
+| 10 | Fonctions de date |  |
 
 ---
