@@ -41,7 +41,7 @@
 | 03 | Tri et filtres | ✅ |
 | 04 | Validation des données | ✅ |
 | 05 | Mise en forme conditionnelle | ✅ |
-| 06 | Opérateurs et calculs |  |
+| 06 | Opérateurs et calculs | ✅ |
 | 07 | Fonctions statistiques |  |
 | 08 | Fonctions logiques |  |
 | 09 | Fonctions de texte |  |
