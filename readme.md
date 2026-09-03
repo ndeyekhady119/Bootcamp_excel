@@ -1,7 +1,7 @@
 # 🚀 Excel Bootcamp — 30 Jours
 
 ![Statut](https://img.shields.io/badge/Statut-En%20Cours-yellow?style=flat-square)
-![Jour](https://img.shields.io/badge/Jour-14%20sur%2030-blue?style=flat-square)
+![Jour](https://img.shields.io/badge/Jour-12%20sur%2030-blue?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-Microsoft%20365-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D4?style=flat-square&logo=windows&logoColor=white)
 
@@ -20,8 +20,7 @@
 
 ---
 
-
-> Les jours 15 à 30 suivent le même motif. Le README de chaque jour contient :  
+> Les jours 15 à 30 suivent le même motif. Le README de chaque jour contient :
 > **Objectifs · Théorie (Q/R) · Pratique · Points de friction**
 
 ---
@@ -46,5 +45,26 @@
 | 08 | Fonctions logiques | ✅ |
 | 09 | Fonctions de texte | ✅ |
 | 10 | Fonctions de date | ✅ |
+
+---
+
+### Sprint 2 — Excel pour le Data Analyst (Jours 11–20) 🔄
+
+```
+[██████░░░░░░░░░░░░░░░░░░░░░░░] 20 % — Sprint 2 en cours
+```
+
+| Jour | Thème | Statut |
+|:----:|-------|:------:|
+| 11 | RECHERCHEV (VLOOKUP) | ✅ |
+| 12 | RECHERCHEX (XLOOKUP) | ✅ |
+| 13 | INDEX et MATCH  | ✅ |
+| 14 | À venir | ⬜ |
+| 15 | À venir | ⬜ |
+| 16 | À venir | ⬜ |
+| 17 | À venir | ⬜ |
+| 18 | À venir | ⬜ |
+| 19 | À venir | ⬜ |
+| 20 | À venir | ⬜ |
 
 ---
