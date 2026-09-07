@@ -59,7 +59,7 @@
 | 11 | RECHERCHEV (VLOOKUP) | ✅ |
 | 12 | RECHERCHEX (XLOOKUP) | ✅ |
 | 13 | INDEX et MATCH  | ✅ |
-| 14 | À venir | ⬜ |
+| 14 | Tableaux Excel | ✅ |
 | 15 | À venir | ⬜ |
 | 16 | À venir | ⬜ |
 | 17 | À venir | ⬜ |
