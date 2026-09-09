@@ -60,7 +60,7 @@
 | 12 | RECHERCHEX (XLOOKUP) | ✅ |
 | 13 | INDEX et MATCH  | ✅ |
 | 14 | Tableaux Excel | ✅ |
-| 15 | À venir | ⬜ |
+| 15 | Graphique | ✅ |
 | 16 | À venir | ⬜ |
 | 17 | À venir | ⬜ |
 | 18 | À venir | ⬜ |
