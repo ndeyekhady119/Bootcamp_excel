@@ -61,8 +61,8 @@
 | 13 | INDEX et MATCH  | ✅ |
 | 14 | Tableaux Excel | ✅ |
 | 15 | Graphique | ✅ |
-| 16 | À venir | ⬜ |
-| 17 | À venir | ⬜ |
+| 16 | Tableaux croisés dynamiques | ✅ |
+| 17 | Nettoyage des données | ✅ |
 | 18 | À venir | ⬜ |
 | 19 | À venir | ⬜ |
 | 20 | À venir | ⬜ |
