@@ -63,7 +63,7 @@
 | 15 | Graphique | ✅ |
 | 16 | Tableaux croisés dynamiques | ✅ |
 | 17 | Nettoyage des données | ✅ |
-| 18 | À venir | ⬜ |
+| 18 | Importation de données | ✅ |
 | 19 | À venir | ⬜ |
 | 20 | À venir | ⬜ |
 
