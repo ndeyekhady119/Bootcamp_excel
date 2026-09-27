@@ -64,7 +64,7 @@
 | 16 | Tableaux croisés dynamiques | ✅ |
 | 17 | Nettoyage des données | ✅ |
 | 18 | Importation de données | ✅ |
-| 19 | À venir | ⬜ |
+| 19 | Dashboard interactif | ✅ |
 | 20 | À venir | ⬜ |
 
 ---
